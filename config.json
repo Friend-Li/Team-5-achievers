@@ -1,0 +1,13 @@
+{
+    "aha_user": "",
+    "aha_pass": "",
+    "outlook_user": "",
+    "azure_client_id": "e265e314-7b13-4db6-8c47-02ebcae89ebf",
+    "azure_tenant_id": "5def4301-2f36-4c62-be6f-3a3f35782b26",
+    "sftp_host": "",
+    "sftp_port": "6239",
+    "sftp_user": "",
+    "sftp_pass": "",
+    "sftp_path": "/uploads/116286/preprod_cl.csv",
+    "outlook_pass": ""
+}
